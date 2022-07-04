@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KptnAutismus
 - 👀 I’m interested in open source everything
-- 🌱 I’m currently learning fusion360
-- 💞️ I’m looking to collaborate on gridfinity by zackfreedman
+- 🌱 I’m currently learning Fusion360
+- 💞️ I’m looking to collaborate on Gridfinity by Zack Freedman
 - 📫 How to reach me u/moskito10, KptnAutismus#2557, my username on most sites is KptnAutismus
 
 <!---
